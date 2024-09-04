@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B5BC4700-ACEB-A549-56ED-23458FE88DE4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TargetManager.cs">
+    <Files>
+      <File FileName="Assets/BallPrefab.cs" Line="5" Column="6" />
+      <File FileName="Assets/MoveTarget.cs" Line="13" Column="72" />
+      <File FileName="Assets/ShootProjectile.cs" Line="10" Column="6" />
+      <File FileName="Assets/TargetHit.cs" Line="15" Column="2" />
+      <File FileName="Assets/ScoreManager.cs" Line="6" Column="20" />
+      <File FileName="Assets/GameTimer.cs" Line="7" Column="17" />
+      <File FileName="Assets/ButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/TargetManager.cs" Line="28" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloCardboard" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TargetManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1d4ad8e6-ec34-4551-acaf-28c9ac376ccb" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
