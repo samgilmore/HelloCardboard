@@ -14,12 +14,19 @@ This project directory contains three scenes: `HelloUnity` (Step 4), `ShootingBa
 
 ## Demo
 
+### Screenshot:
+
 ![Game Screenshot](https://github.com/user-attachments/assets/d6af2eb6-07c3-477e-a58c-d6176ec0a53a)
+
+### Gif (may need to refresh for it to play):
 
 ![GIF of Gameplay](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ3djdzYzFpOGJ5NDM2eXZjNDVudnQ2N2w2NmxkNzhrZWhkamd3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUTUyhGqV2PVWVdoXI/giphy.gif)
 
-## Game Description!
+## Game Description:
 
+This target shooting game is definitionally a game because it meets the core criteria outlined in our class discussions. Like any game, it has clear rules and a quantifiable goal: players must shoot moving targets within a 60-second time limit, earning points based on the type of target hit. The game requires skill and focus to hit the targets and maximize the score. It has a defined beginning (starting the timer) and an end (when the timer runs out), and the outcome is variable depending on how many targets the player can hit. There’s a clear challenge presented to the player, with satisfaction coming from improving their score or hitting harder targets.
+
+The game also fits Schell and Juul’s definitions because it introduces a level of emotional investment for the player. The player feels engaged as they try to beat their own score or hit faster-moving targets, and there’s a sense of accomplishment when scoring higher points or seeing the “Game Over” screen after a successful round. The game environment, with its pretty landscape and moving targets, enhances the immersion, providing both a goal-oriented experience and a fun challenge that mirrors the emotional engagement described in our readings.
 
 ## Assets Used
 
