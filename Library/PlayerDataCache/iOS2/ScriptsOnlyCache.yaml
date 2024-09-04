@@ -8,8 +8,8 @@ ScriptsOnlyBuild:
     - ShootProjectile
     - TargetHit
     - TargetManager
-    DependenciesHunter.Editor.dll:
-    - DependenciesHunter.AllProjectAssetsReferencesWindow
+    Google.XR.Cardboard.dll:
+    - Google.XR.Cardboard.XRLoader
     Unity.InputSystem.dll:
     - UnityEngine.InputSystem.EnhancedTouch.TouchSimulation
     - UnityEngine.InputSystem.InputSettings
@@ -31,6 +31,10 @@ ScriptsOnlyBuild:
     - TMPro.TextMeshPro
     Unity.XR.Management.Editor.dll:
     - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    - UnityEditor.XR.Management.XRManagerSettingsEditor
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -125,21 +129,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5600}
     - Class: 114
-      Script: {instanceID: 6472}
+      Script: {instanceID: 6474}
     - Class: 114
-      Script: {instanceID: 6754}
+      Script: {instanceID: 6756}
     - Class: 114
-      Script: {instanceID: 7518}
+      Script: {instanceID: 7520}
     - Class: 114
-      Script: {instanceID: 7588}
+      Script: {instanceID: 7590}
     - Class: 114
-      Script: {instanceID: 8208}
+      Script: {instanceID: 8210}
     - Class: 114
-      Script: {instanceID: 8412}
+      Script: {instanceID: 8414}
     - Class: 114
-      Script: {instanceID: 25212}
+      Script: {instanceID: 25034}
     - Class: 114
-      Script: {instanceID: 25216}
+      Script: {instanceID: 25038}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128

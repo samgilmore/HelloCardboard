@@ -117,6 +117,7 @@ UnityEngine.CanvasRenderer::set_hasPopInstruction
 UnityEngine.CanvasRenderer::set_materialCount
 UnityEngine.CanvasRenderer::set_popMaterialCount
 UnityEngine.CanvasRenderer::GetMaterial
+UnityEngine.Collider::get_attachedRigidbody
 UnityEngine.Component::BroadcastMessage
 UnityEngine.Component::GetComponentFastPath
 UnityEngine.Component::GetComponentsForListInternal
@@ -307,6 +308,8 @@ UnityEngine.Input::set_compositionCursorPos_Injected
 UnityEngine.Input::set_imeCompositionMode
 UnityEngine.Input::get_imeCompositionMode
 UnityEngine.IntegratedSubsystem::SetHandle
+UnityEngine.IntegratedSubsystem::Start
+UnityEngine.IntegratedSubsystem::Stop
 UnityEngine.Internal.InputUnsafeUtility::GetButtonDown
 UnityEngine.Internal.InputUnsafeUtility::GetButtonUp__Unmanaged
 UnityEngine.Internal.InputUnsafeUtility::GetButton__Unmanaged
@@ -385,6 +388,7 @@ UnityEngine.Mesh::SetArrayForChannelImpl
 UnityEngine.Mesh::SetIndicesImpl
 UnityEngine.Mesh::get_bounds_Injected
 UnityEngine.Mesh::set_bounds_Injected
+UnityEngine.MeshFilter::set_mesh
 UnityEngine.MeshFilter::set_sharedMesh
 UnityEngine.MonoBehaviour::Internal_IsInvokingAll
 UnityEngine.MonoBehaviour::IsInvoking
@@ -409,6 +413,7 @@ UnityEngine.Object::GetName
 UnityEngine.Object::ToString
 UnityEngine.Object::Destroy
 UnityEngine.Object::DestroyImmediate
+UnityEngine.Object::DontDestroyOnLoad
 UnityEngine.Object::SetName
 UnityEngine.Object::set_hideFlags
 UnityEngine.Object::get_hideFlags
@@ -514,6 +519,7 @@ UnityEngine.RenderTexture::set_width
 UnityEngine.RenderTexture::GetActive
 UnityEngine.RenderTexture::GetTemporary_Internal_Injected
 UnityEngine.Resources::GetBuiltinResource
+UnityEngine.ResourcesAPIInternal::UnloadAsset
 UnityEngine.ResourcesAPIInternal::Load
 UnityEngine.ResourcesAPIInternal::FindObjectsOfTypeAll
 UnityEngine.ResourcesAPIInternal::FindShaderByName
@@ -522,6 +528,7 @@ UnityEngine.Screen::get_fullScreen
 UnityEngine.Screen::get_height
 UnityEngine.Screen::get_width
 UnityEngine.Screen::get_dpi
+UnityEngine.Screen::get_safeArea_Injected
 UnityEngine.Screen::GetScreenOrientation
 UnityEngine.ScriptableObject::CreateScriptableObject
 UnityEngine.ScriptableObject::CreateScriptableObjectInstanceFromType
@@ -568,6 +575,8 @@ UnityEngine.Sprite::get_associatedAlphaSplitTexture
 UnityEngine.Sprite::get_texture
 UnityEngine.Sprite::get_uv
 UnityEngine.Sprite::get_vertices
+UnityEngine.SubsystemBindings::DestroySubsystem
+UnityEngine.SubsystemDescriptorBindings::Create
 UnityEngine.SubsystemDescriptorBindings::GetId
 UnityEngine.SubsystemManager::StaticConstructScriptingClassMap
 UnityEngine.SubsystemsImplementation.SubsystemDescriptorStore::ReportSingleSubsystemAnalytics
@@ -578,6 +587,7 @@ UnityEngine.SystemInfo::GetMaxTextureSize
 UnityEngine.SystemInfo::GetCompatibleFormat
 UnityEngine.SystemInfo::GetGraphicsFormat
 UnityEngine.SystemInfo::GetOperatingSystemFamily
+UnityEngine.SystemInfo::GetGraphicsDeviceType
 UnityEngine.TextAsset::get_bytes
 UnityEngine.TextCore.LowLevel.FontEngine::TryAddGlyphToTexture_Internal
 UnityEngine.TextCore.LowLevel.FontEngine::TryAddGlyphsToTexture_Internal
@@ -608,6 +618,7 @@ UnityEngine.Texture::get_isReadable
 UnityEngine.Texture::GetDataHeight
 UnityEngine.Texture::GetDataWidth
 UnityEngine.Texture::Internal_GetActiveTextureColorSpace
+UnityEngine.Texture::GetNativeTexturePtr
 UnityEngine.Texture::get_texelSize_Injected
 UnityEngine.Texture::set_filterMode
 UnityEngine.Texture::get_filterMode
