@@ -1,4 +1,4 @@
-# Target Shooting Game
+# VR Target Shooting Game
 
 This project directory contains three scenes: `HelloUnity` (Step 4), `ShootingBall` (Step 5), and `TargetShootingGame` (Step 6). The final scene, `TargetShootingGame`, showcases the completed game with the following features:
 
